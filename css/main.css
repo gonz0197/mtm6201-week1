@@ -19,16 +19,13 @@ body {
     margin: 0 auto;
 }
 
-ul {
+.ulpink {
+    color: pink;
     margin: 0;
     padding-left: 15px;
 }
 
-ul li {
-    color: pink;
-}
-
-ul li span{
+.ulpink span{
     color: black;
 }
 
